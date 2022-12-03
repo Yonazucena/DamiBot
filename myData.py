@@ -82,7 +82,7 @@ negative = [
 
 commands_list = (
     "*basic commands*\n"
-    "/start starts conversating with zhongli (i think)\n"
+    "/start starts conversating with Dami (i think)\n"
     "/help shows this list bc my brain small and i dont remember all commands\n\n"
     
     "*help you pick options*\n"
